@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitClone\\Mihoyo-Project\\Source\\Mihoyo\\Mihoyo.Build.cs",
+		"D:\\GitClone\\Mihoyo-Project\\Source\\Mihoyo.Target.cs",
+		"D:\\GitClone\\Mihoyo-Project\\Source\\MihoyoEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}
